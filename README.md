@@ -5,11 +5,12 @@ You need to install the packages outlined in `requirements.txt`
 
 `pip install -r requirements.txt`
 
-You need to install `jupyter-lab` to run the notebooks.
+You need to install `dimod==0.10.0` and `dwave-system==1.7.0` separately.
 
-`pip install jupyterlab`
+`pip install dimod==0.10.0 dwave-system==1.7.0`
 
-Then run it
+
+Next, you need to run the `jupyter-lab`:
 
 `jupyter-lab`
 
