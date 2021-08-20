@@ -2,3 +2,4 @@ tasks:
   - init: |
       pip install -r requirements.txt
       pip install dimod==0.10.0 dwave-system==1.7.0
+      
